@@ -1,0 +1,19 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+        {
+          "appID": "Q7E6B7L4PB.com.rgc.alpha.Royal2",
+          "paths": ["*"]
+        },
+        {
+            "appID": "Q7E6B7L4PB.com.rccl.dev.Royal2",
+            "paths": ["*"]
+          },
+          {
+            "appID": "Q7E6B7L4PB.com.rcg.beta.Royal2",
+            "paths": ["*"]
+          }
+      ]
+    }
+  }
